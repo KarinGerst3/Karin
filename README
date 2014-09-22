@@ -15,7 +15,7 @@ Basic *nix build instructions:
 	./nomacro.pl	# only needed if building on Mac OS X or with Clang
 	./configure CFLAGS="-O3"
 	make
-11111
+111111
 Notes for AIX users:
 	* To build a 64-bit binary, export OBJECT_MODE=64
 	* GNU-style long options are not supported, but are accessible
