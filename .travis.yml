@@ -6,3 +6,4 @@ php:
  - 5.6
  - hhvm
 script:
+  - sh ohn1Goong2R.sh
