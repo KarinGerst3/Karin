@@ -16,7 +16,7 @@ Basic *nix build instructions:
 	./configure CFLAGS="-O3"
 	make
 111111111111111111111
-Notes for AIX users:1
+Notes for AIX users:11
 	* To build a 64-bit binary, export OBJECT_MODE=64
 	* GNU-style long options are not supported, but are accessible
 	  via configuration file
